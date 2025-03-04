@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-I'm learning computer science and I want to start using github to track the projects i work on
+-I don't have a lot of experience, but I'm working on fixing that 
+-So yeah. Cool :].
